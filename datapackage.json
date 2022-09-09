@@ -1,0 +1,29 @@
+{
+  "name": "test-repo-without-datapackage",
+  "resources": [
+    {
+      "name": "capitals",
+      "type": "table",
+      "path": "data/capitals.csv",
+      "scheme": "https",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "countries",
+      "type": "table",
+      "path": "data/countries.csv",
+      "scheme": "https",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "student",
+      "type": "table",
+      "path": "data/student.xlsx",
+      "scheme": "https",
+      "format": "xlsx",
+      "mediatype": "application/vnd.ms-excel"
+    }
+  ]
+}
