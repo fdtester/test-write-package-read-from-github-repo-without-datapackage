@@ -1,0 +1,1 @@
+# test-write-package-read-from-github-repo-without-datapackage
